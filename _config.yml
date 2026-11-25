@@ -1,8 +1,10 @@
-title: My Knowledge Blog
-description: Helpful articles, guides and resources.
+title: AGR Technologies Blog
+description: Practical IT guides, technology insights and troubleshooting solutions for businesses.
+
 theme: minima
 
-url: "https://yourusername.github.io"
+url: "https://agrtechusa.github.io"
+baseurl: "/Agr-technologies"
 
 permalink: /blog/:title/
 
