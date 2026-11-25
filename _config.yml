@@ -1,0 +1,12 @@
+title: My Knowledge Blog
+description: Helpful articles, guides and resources.
+theme: minima
+
+url: "https://yourusername.github.io"
+
+permalink: /blog/:title/
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
